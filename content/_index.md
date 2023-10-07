@@ -79,7 +79,7 @@ sections:
 #     appointment_url: 'https://calendly.com'
       address:
         street: No.220 Handan Rd
-        city: Shanghai
+        city: Shanghai, China
 #       region: CA
         postcode: '200433'
         country: P.R. China
