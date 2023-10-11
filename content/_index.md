@@ -68,8 +68,6 @@ sections:
               Review the correspondence between field theories and string theory. Focus on the relation between compactifications of string theory on Anti-de Sitter spaces and conformal field theories
               Group work for the honors course in Methods of Mathematical Physics. Grade A
 
-              {{% staticref "uploads/resume.pdf" "newtab" %}}**Click to view more details**{{% /staticref %}}
-
     design:
       columns: '2'
 
