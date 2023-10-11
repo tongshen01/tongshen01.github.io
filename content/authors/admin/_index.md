@@ -13,8 +13,8 @@ social:
     display:
       header: true
 #  - icon: github
-    icon_pack: fab
-    link: https://github.com
+#    icon_pack: fab
+#    link: https://github.com
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
