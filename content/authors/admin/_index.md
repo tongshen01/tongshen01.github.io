@@ -12,7 +12,7 @@ social:
     link: /#contact
     display:
       header: true
-  - icon: github
+#  - icon: github
     icon_pack: fab
     link: https://github.com
   - icon: cv
