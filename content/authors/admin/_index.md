@@ -12,9 +12,9 @@ social:
     link: /#contact
     display:
       header: true
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/tongshen01
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
