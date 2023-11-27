@@ -5,6 +5,14 @@ date: 2022-10-24
 type: landing
 
 sections:
+
+  - block: about.biography
+    id: about
+    content:
+      title: About me
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+
   - block: experience
     id: research
     content:
@@ -51,13 +59,6 @@ sections:
 
     design:
       columns: '2'
-
-  - block: about.biography
-    id: about
-    content:
-      title: About me
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
 
   - block: collection
     id: featured
