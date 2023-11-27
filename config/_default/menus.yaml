@@ -14,11 +14,11 @@ main:
 
   - name: Research
     url: '#research'
-    weight: 30
+    weight: 20
     
   - name: Publications
     url: '#featured'
-    weight: 20
+    weight: 30
     
 #  - name: Projects
 #    url: '#projects'
