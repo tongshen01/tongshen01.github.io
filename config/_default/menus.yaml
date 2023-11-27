@@ -12,13 +12,13 @@ main:
 #    url: '#posts'
 #    weight: 20
 
-  - name: Publications
-    url: '#featured'
-    weight: 20
-    
   - name: Research
     url: '#research'
     weight: 30
+    
+  - name: Publications
+    url: '#featured'
+    weight: 20
     
 #  - name: Projects
 #    url: '#projects'
