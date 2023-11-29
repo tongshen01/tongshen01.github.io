@@ -34,7 +34,7 @@ sections:
           date_start: '2023-06-01'
           date_end: ''
           description: |2-
-              We show that precision timing information of the jet constituents in conjunction with machine learning allows for a more precise definition of jet time and also an independent reconstruction of displaced vertex for trackless jets. This highlights the power and the importance of timing information for jets in colliders, which is complementary to tracking information and uniquely the leading observable for heavy neutral long-lived particles
+              We show that precision timing information of the jet constituents in conjunction with machine learning allows for a more precise definition of jet time and also an independent reconstruction of displaced vertex for trackless jets. This highlights the power and the importance of timing information for jets in colliders, which is complementary to tracking information and uniquely the leading observable for heavy neutral long-lived particles. Our new definition of jet time performs four times better than the old definition on average.
 
         - title: Machine Learning Approach for Top Quark Effective Theory
           company: Advised by [Prof. Jiayin Gu](https://phys.fudan.edu.cn/4b/db/c7605a412635/page.htm), Fudan University
