@@ -80,7 +80,7 @@ sections:
 #      text: |-
 #      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: tongshen2022@gmail.com
+      email: tongshen01@163.com
       phone: (+86) 13248087846
 #     appointment_url: 'https://calendly.com'
       address:
