@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Tong Shen # Website name
-baseURL: 'https://tongshen01.github.io/' 
+baseURL: # Website URL
 
 ############################
 ## LANGUAGE
