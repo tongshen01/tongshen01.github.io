@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Tong Shen # Website name
+title: TongShen # Website name
 baseURL: 'https://tongshen01.github.io/' # Website URL
 
 ############################
