@@ -26,7 +26,7 @@ education:
   courses:
     - course: BSc in Physics
       institution: Fudan University
-      year: 09/2020-present      
+      year: 09/2020-06/2024      
     - course: High School Diploma
       institution: No.2 High School of East China Normal University
       year: 09/2017-07/2020
