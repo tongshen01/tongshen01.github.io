@@ -3,9 +3,9 @@ title: Tong Shen
 role: Undergraduate Student
 bio: Fudan University
 interests:
-  - Computer Science, Data Science and Statistics
-  - The application of machine learning in collider physics
-  - Standard Model Effective Field Theory and Phenomenology
+  - The application of machine learning in scientific problems
+  - Advanced numerical algorithms for scientific computing
+  - Fundamental problems in AI; Explainable AI
  
 social:
   - icon: envelope
