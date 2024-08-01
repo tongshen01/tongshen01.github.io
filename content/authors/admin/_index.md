@@ -39,7 +39,7 @@ highlight_name: true
 first_name: Tong
 email: ""
 ---
-I'm currently a senior undergraduate at Department of Physics, Fudan University. My research interests include data science and statistics, machine learning, elementry particle physics, and phenomenology. 
+I'm currently a senior undergraduate at Department of Physics, Fudan University. My research interests include advanced numerical algorithms, machine learning, explainable AI and elementry particle physics.
 
 I'm very honored to be advised by [Prof. Jiayin Gu](https://phys.fudan.edu.cn/4b/db/c7605a412635/page.htm) from Department of Physics, Fudan University. I was also advised by [Prof. Zhen Liu](https://cse.umn.edu/physics/zhen-liu) from School of Physics and Astronomy, University of Minnesota when I stayed at UMN in 2023 as a visiting student intern.
 
